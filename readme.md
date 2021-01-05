@@ -3,5 +3,5 @@
 In your project:
 
 ```sh
-curl https://raw.githubusercontent.com/profilemyprofile/prettierrc/master/.prettierrc >> .prettierrc
+curl https://raw.githubusercontent.com/land47/prettierrc/master/.prettierrc >> .prettierrc
 ```
